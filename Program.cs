@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Runtime.InteropServices;
 
-namespace VNexusCapture
+namespace WindowSS
 {
     internal class Program
     {
