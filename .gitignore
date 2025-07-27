@@ -1,0 +1,42 @@
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.sln.ide
+
+# Rider
+.idea/
+*.sln.iml
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Others
+*.dbmdl
+*.bak
+*.cache
+*.pdb
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Publish
+publish/
